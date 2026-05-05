@@ -30,8 +30,8 @@
 #     setwd("/path/to/your/data")
 #   Or open this script from an RStudio project.
 #
-# Author: [Your name]
-# Date:   [Date]
+# Author: Emily Drabek-Maunder
+# Date:   May 5, 2026
 # ==========================================================
 
 # ==========================================================
